@@ -1,4 +1,4 @@
-# crowler-images
+# crawler-images
 
 Crowler para baixar imagens de um site específico.
 
